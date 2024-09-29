@@ -26,3 +26,8 @@ The **Play-to-Earn Chess Game** is a decentralized chess platform that combines 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+
+## Team’s Contact Information
+Phone no. : 8102271172 
+          : 7701913192
+email     : richab820@gmail.com
