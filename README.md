@@ -25,9 +25,14 @@ The **Play-to-Earn Chess Game** is a decentralized chess platform that combines 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   https://richbandana.github.io/NeoXGrind_Chess/
+
+## Demo video :
+- https://youtu.be/-YyPBunH7Wg?si=tro-M2t08ogvcVkG
+
+
 
 ## Team’s Contact Information
-Phone no. : 8102271172 
-          : 7701913192
-email     : richab820@gmail.com
+- Phone no.- : 8102271172 
+           - : 7701913192
+- email     : richab820@gmail.com
